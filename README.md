@@ -15,8 +15,8 @@ Make sure you have the following installed on your system:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/gausk/counter-app.git
+   cd counter-app
    ```
 2. Install dependencies:
    ```sh
